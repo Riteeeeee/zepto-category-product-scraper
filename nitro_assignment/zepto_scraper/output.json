@@ -1,0 +1,266 @@
+{
+    "store_id": "5eb1e899-1cb8-4374-a4de-69cf86cc36cc",
+    "location": {
+        "latitude": 17.3231,
+        "longitude": 78.4661
+    },
+    "categories": [
+        {
+            "category_id": "f1316a4d-01fe-4653-aeb0-c7406ed0ae10",
+            "subcategory_id": "18122408-ce1e-424a-b5a7-336f55659717",
+            "products": []
+        },
+        {
+            "category_id": "947a72ae-b371-45cb-ad3a-778c05b64399",
+            "subcategory_id": "dff3658b-c351-4e7f-8196-e98d0c66d99e",
+            "products": [
+                {
+                    "Product Name": "Coca-Cola Diet Coke Soft Drink Can | Low-Calorie & Fizzy",
+                    "Price": 40.0,
+                    "Discounted Price": 34.0,
+                    "Image URL": "https://cdn.zeptonow.com/cms/product_variant/5e4695df-05d0-4bc7-a3ff-4557b0fdd61b.jpeg"
+                },
+                {
+                    "Product Name": "Thums Up Soft Drink | Carbonated Beverage",
+                    "Price": 160.0,
+                    "Discounted Price": 136.0,
+                    "Image URL": "https://cdn.zeptonow.com/cms/product_variant/eb07e51a-e63e-4810-972f-044507d7068a.jpeg"
+                },
+                {
+                    "Product Name": "Coca-Cola Zero Sugar Soft Drink Can | Fizzy & Refreshing",
+                    "Price": 40.0,
+                    "Discounted Price": 33.0,
+                    "Image URL": "https://cdn.zeptonow.com/cms/product_variant/b2de315e-f241-4ba1-9dd6-15095fb1fa02.jpeg"
+                },
+                {
+                    "Product Name": "Sprite Lemon Soft Drink | Carbonated Beverage",
+                    "Price": 40.0,
+                    "Discounted Price": 33.0,
+                    "Image URL": "https://cdn.zeptonow.com/cms/product_variant/859601d6-9264-49e2-ab83-909bc451010d.jpeg"
+                },
+                {
+                    "Product Name": "Thums Up Soft Drink | Carbonated Beverage",
+                    "Price": 100.0,
+                    "Discounted Price": 96.0,
+                    "Image URL": "https://cdn.zeptonow.com/cms/product_variant/139f4f61-6a51-46f2-b603-3bb9f2ddf1e6.jpeg"
+                },
+                {
+                    "Product Name": "Sprite Zero",
+                    "Price": 45.0,
+                    "Discounted Price": 35.0,
+                    "Image URL": "https://cdn.zeptonow.com/cms/product_variant/6bf6c678-fcad-4c14-8fb0-2d2a0e5decee.jpeg"
+                },
+                {
+                    "Product Name": "Pepsi Soft Drink | Carbonated Beverage",
+                    "Price": 40.0,
+                    "Discounted Price": 32.0,
+                    "Image URL": "https://cdn.zeptonow.com/cms/product_variant/1bb673a8-db69-4a6b-9e37-61968fa5b6c3.jpeg"
+                },
+                {
+                    "Product Name": "Pepsi Soft Drink | Refreshing Carbonated Beverage",
+                    "Price": 40.0,
+                    "Discounted Price": 37.0,
+                    "Image URL": "https://cdn.zeptonow.com/cms/product_variant/fd2659fa-e385-4586-a60c-17df7c67b5de.jpeg"
+                },
+                {
+                    "Product Name": "Sprite Lemon Soft Drink | Carbonated Beverage",
+                    "Price": 160.0,
+                    "Discounted Price": 135.0,
+                    "Image URL": "https://cdn.zeptonow.com/cms/product_variant/353d35c1-ca26-40b4-98e6-264f07e76965.jpeg"
+                },
+                {
+                    "Product Name": "Pepsi Cola Soft Drink | Carbonated Beverage",
+                    "Price": 240.0,
+                    "Discounted Price": 202.0,
+                    "Image URL": "https://cdn.zeptonow.com/cms/product_variant/b832471f-73c8-4610-ac18-874938f01e5b.jpeg"
+                },
+                {
+                    "Product Name": "Sprite Lemon Soft Drink | Carbonated Beverage",
+                    "Price": 70.0,
+                    "Discounted Price": 67.0,
+                    "Image URL": "https://cdn.zeptonow.com/cms/product_variant/8f345ad4-9741-416c-800c-74d1097568d5.jpeg"
+                },
+                {
+                    "Product Name": "Appy Fizz Apple Soft Drink | Pet | Fizzy & Refreshing",
+                    "Price": 20.0,
+                    "Discounted Price": 20.0,
+                    "Image URL": "https://cdn.zeptonow.com/cms/product_variant/da69b767-b2b2-41a1-b187-97d6142030ed.jpeg"
+                },
+                {
+                    "Product Name": "Pepsi Zero Sugar Soft Drink | Carbonated Beverage",
+                    "Price": 20.0,
+                    "Discounted Price": 20.0,
+                    "Image URL": "https://cdn.zeptonow.com/cms/product_variant/d5257f10-b049-47d9-bdb5-736d034f49e5.jpeg"
+                },
+                {
+                    "Product Name": "Limca Lemon Soft Drink Can | Carbonated Beverage",
+                    "Price": 40.0,
+                    "Discounted Price": 39.0,
+                    "Image URL": "https://cdn.zeptonow.com/cms/product_variant/b542ae21-bb5b-48c5-a269-e339f29f3790.jpeg"
+                },
+                {
+                    "Product Name": "Bombay Banta Masala Cola Soda | Spiced & Refreshing",
+                    "Price": 20.0,
+                    "Discounted Price": 19.0,
+                    "Image URL": "https://cdn.zeptonow.com/cms/product_variant/244fdd9c-95d1-4ac7-9b6a-ec0c8b39786a.jpeg"
+                },
+                {
+                    "Product Name": "Dr Pepper Soft Drink",
+                    "Price": 220.0,
+                    "Discounted Price": 185.0,
+                    "Image URL": "https://cdn.zeptonow.com/cms/product_variant/8932f37a-31db-4456-91fd-2b119339a5b5.jpeg"
+                },
+                {
+                    "Product Name": "Coca-Cola Soft Drink | Carbonated Beverage",
+                    "Price": 100.0,
+                    "Discounted Price": 83.0,
+                    "Image URL": "https://cdn.zeptonow.com/cms/product_variant/7b4ef8d3-619b-435a-963a-a648e8935edf.jpeg"
+                },
+                {
+                    "Product Name": "Bloody Bubbly Lemon Soda",
+                    "Price": 65.0,
+                    "Discounted Price": 46.0,
+                    "Image URL": "https://cdn.zeptonow.com/cms/product_variant/b69db280-a6dc-4fc3-b59a-fe7fb1415f27.jpeg"
+                },
+                {
+                    "Product Name": "Sprite Lemon Soft Drink | Carbonated Beverage",
+                    "Price": 100.0,
+                    "Discounted Price": 96.0,
+                    "Image URL": "https://cdn.zeptonow.com/cms/product_variant/9a55fff0-cb85-401d-9ba7-81d15e887f37.jpeg"
+                },
+                {
+                    "Product Name": "Bloody Bubbly Cranberry Soda",
+                    "Price": 65.0,
+                    "Discounted Price": 64.0,
+                    "Image URL": "https://cdn.zeptonow.com/cms/product_variant/72441126-f542-4d61-a9fb-9902aed6ed53.jpeg"
+                },
+                {
+                    "Product Name": "Bloody Bubbly Berry Masala Soda",
+                    "Price": 65.0,
+                    "Discounted Price": 45.0,
+                    "Image URL": "https://cdn.zeptonow.com/cms/product_variant/32b348dc-7e32-438e-8162-fd6e0e813031.jpeg"
+                },
+                {
+                    "Product Name": "7 Up Soft Drink Can | Carbonated Beverage",
+                    "Price": 40.0,
+                    "Discounted Price": 39.0,
+                    "Image URL": "https://cdn.zeptonow.com/cms/product_variant/c12fa784-d807-49f6-8559-59d38a332778.jpeg"
+                },
+                {
+                    "Product Name": "Pepsi Zero Sugar Soft Drink | Carbonated Beverage",
+                    "Price": 240.0,
+                    "Discounted Price": 199.0,
+                    "Image URL": "https://cdn.zeptonow.com/cms/product_variant/661ab2d4-0afa-4ba4-931b-d325f558df04.png"
+                },
+                {
+                    "Product Name": "Mountain Dew Soft Drink | Carbonated Beverage",
+                    "Price": 240.0,
+                    "Discounted Price": 197.0,
+                    "Image URL": "https://cdn.zeptonow.com/cms/product_variant/b9cd9476-618c-4d0a-b52c-49e69cb9e282.jpeg"
+                },
+                {
+                    "Product Name": "Fanta Orange Flavoured Soft Drink | Carbonated Beverage",
+                    "Price": 40.0,
+                    "Discounted Price": 35.0,
+                    "Image URL": "https://cdn.zeptonow.com/cms/product_variant/0480184b-4961-4175-a6fd-0b75217f3e64.jpeg"
+                },
+                {
+                    "Product Name": "Pepsi Soft Drink | Carbonated Beverage",
+                    "Price": 100.0,
+                    "Discounted Price": 75.0,
+                    "Image URL": "https://cdn.zeptonow.com/cms/product_variant/3d1560d8-19b4-44d3-8a0e-3b9a3f2a6646.jpeg"
+                },
+                {
+                    "Product Name": "Coca-Cola Soft Drink | Carbonated Beverage",
+                    "Price": 70.0,
+                    "Discounted Price": 57.0,
+                    "Image URL": "https://cdn.zeptonow.com/cms/product_variant/638a810a-5ceb-4e7d-8b4a-09510f302099.jpeg"
+                },
+                {
+                    "Product Name": "7 Up Lemon Soft Drink | Carbonated Beverage",
+                    "Price": 40.0,
+                    "Discounted Price": 38.0,
+                    "Image URL": "https://cdn.zeptonow.com/cms/product_variant/5e4f4820-4e9a-4b5e-b578-7798411e7128.jpeg"
+                },
+                {
+                    "Product Name": "RIO Raw Mango Bubbly Fruit Drink Can | Tangy & Fizzy",
+                    "Price": 45.0,
+                    "Discounted Price": 39.0,
+                    "Image URL": "https://cdn.zeptonow.com/cms/product_variant/cda160f3-1f84-4ec5-9bad-b203485e6b49.jpeg"
+                },
+                {
+                    "Product Name": "Sprite Zero Lemon Diet Soft Drink Can | Crisp & Light",
+                    "Price": 40.0,
+                    "Discounted Price": 39.0,
+                    "Image URL": "https://cdn.zeptonow.com/cms/product_variant/3e543260-ed4f-4517-b08a-32ccd214e020.jpeg"
+                },
+                {
+                    "Product Name": "Fanta Orange Flavoured Soft Drink Can | Carbonated Beverage",
+                    "Price": 40.0,
+                    "Discounted Price": 39.0,
+                    "Image URL": "https://cdn.zeptonow.com/cms/product_variant/4c7bbb0e-57c3-4c6f-8f17-6380df11397e.jpeg"
+                }
+            ]
+        },
+        {
+            "category_id": "fd1438dc-e1a8-49f9-87a3-2645a613ceeb",
+            "subcategory_id": "9cd558a2-5ef6-45e9-8198-c06b83d42377",
+            "products": [
+                {
+                    "Product Name": "Toyshine Junior Fast Sling Puck Game | Pine Wood String Hockey Fun",
+                    "Price": 599.0,
+                    "Discounted Price": 389.0,
+                    "Image URL": "https://cdn.zeptonow.com/cms/product_variant/0d79cd8d-9cd5-43d7-a6a8-f8480fe26398.jpeg"
+                },
+                {
+                    "Product Name": "Lifelong Kick Scooter for Kids | Adjustable & Foldable (Ages 2-12)",
+                    "Price": 3999.0,
+                    "Discounted Price": 899.0,
+                    "Image URL": "https://cdn.zeptonow.com/cms/product_variant/e3a7bf65-955f-476f-a86c-ba1097c70ad4.jpg"
+                },
+                {
+                    "Product Name": "Fablue Magic Blow Pipe Toy - Set Of 2 Magic Blowing Ball Toy - Party Game For Kids And Adults",
+                    "Price": 499.0,
+                    "Discounted Price": 94.0,
+                    "Image URL": "https://cdn.zeptonow.com/cms/product_variant/39b4e798-0dde-49db-9ca3-7497b1275e3e.jpg"
+                },
+                {
+                    "Product Name": "Toyshine Long-Range Foam Blaster Gun Toy with 10 Bullets | Safe & Multicolor Fun | Toy Gun",
+                    "Price": 999.0,
+                    "Discounted Price": 243.0,
+                    "Image URL": "https://cdn.zeptonow.com/cms/product_variant/5a4e8c24-2194-437b-9191-491b56341564.jpeg"
+                },
+                {
+                    "Product Name": "Toyshine Detachable 8-Hulla Hoop, Colorful Ring for Kids, Dance, Gymnastics & Exercise",
+                    "Price": 399.0,
+                    "Discounted Price": 140.0,
+                    "Image URL": "https://cdn.zeptonow.com/cms/product_variant/1bcf1a36-bb84-4b7e-9378-60a173cfe8fa.jpg"
+                },
+                {
+                    "Product Name": "Toyshine Moon Space Ball - High Bounce & Sensory Play for Kids & Adults",
+                    "Price": 499.0,
+                    "Discounted Price": 95.0,
+                    "Image URL": "https://cdn.zeptonow.com/cms/product_variant/fd45dca4-eeba-48c5-bcab-1ada5b801a40.jpg"
+                },
+                {
+                    "Product Name": "Fablue Floating Hover Football | Battery Operated | Multicolor",
+                    "Price": 1299.0,
+                    "Discounted Price": 299.0,
+                    "Image URL": "https://cdn.zeptonow.com/cms/product_variant/5eae644e-a67c-409c-bb35-b137277f934f.jpeg"
+                },
+                {
+                    "Product Name": "Fablue Hungry Frogs Tabletop Game Toy For Kids 2 Players | Interactive Indoor Fun Game",
+                    "Price": 1299.0,
+                    "Discounted Price": 299.0,
+                    "Image URL": "https://cdn.zeptonow.com/cms/product_variant/c9d49c84-3390-4322-bdd1-c619c7164cce.jpeg"
+                },
+                {
+                    "Product Name": "Toyshine 2|in|1 Ring Toss Game | Shape Sorter & Aim & Strike Fun | Multicolour",
+                    "Price": 699.0,
+                    "Discounted Price": 199.0,
+                    "Image URL": "https://cdn.zeptonow.com/cms/product_variant/75addfed-dcc4-484a-9ce3-03d8b6e9040c.jpeg"
+                }
+            ]
+        }
+    ]
+}
