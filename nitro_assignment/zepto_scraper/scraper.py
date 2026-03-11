@@ -25,11 +25,15 @@ HEADERS = {
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
     "app_version": "14.28.1",
 
-    # AUTHENTICATION OVERRIDE (Optional) 
+    # ==========================================================================
+    # AUTHENTICATION OVERRIDE (Optional)
+    # --------------------------------------------------------------------------
+    # For full inventory access, provide fresh tokens below.
+    # ==========================================================================
     # "auth_from_cookie": "true",
     # "cookie": "accessToken=REPLACE_WITH_YOUR_TOKEN;", 
     # "request-signature": "REPLACE_WITH_YOUR_SIGNATURE",
-    # "x-xsrf-token": "REPLACE_WITH_YOUR_XSRF",
+    # "x-xsrf-token": "REPLACE_WITH_YOUR_XSRF"
     
 }
 
